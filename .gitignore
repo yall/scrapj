@@ -1,0 +1,42 @@
+# General
+*~
+*.log
+tmp
+dump
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+#Gradle
+.gradletasknamecache
+.gradle/
+build/
+bin/
+
+# SBT
+dist
+project/boot
+project/target
+project/plugins/target
+target
+.target
+
+# Play
+logs
+RUNNING_PID
+*.pid
